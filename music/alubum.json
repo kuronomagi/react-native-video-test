@@ -1,7 +1,7 @@
 [
   {
     "song": "https://github.com/kuronomagi/react-native-video-test/raw/master/music/artist_1/001/001.mp3",
-    "song_id": 1234567890,
+    "song_id": 1234,
     "title": "人生×僕=",
     "title_sort": "じんせいかけるぼくいこーる",
     "album": "人生×僕=",
@@ -19,7 +19,7 @@
   },
   {
     "song": "https://github.com/kuronomagi/react-native-video-test/raw/master/music/artist_1/001/001.mp3",
-    "song_id": 123456789234112,
+    "song_id": 09876,
     "title": "星降る夜に",
     "title_sort": "ほしふるよるに",
     "album": "からっぽペペロンチーノ",
@@ -37,7 +37,7 @@
   },
   {
     "song": "https://github.com/kuronomagi/react-native-video-test/raw/master/music/artist_1/001/001.mp3",
-    "song_id": 12345678901234567890,
+    "song_id": 534212,
     "title": "彼葉",
     "title_sort": "かれは",
     "album": "からっぽペペロンチーノ",
