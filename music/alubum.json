@@ -12,35 +12,4 @@
   "primary_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/001.png",
   "secondary_artwork": "https://avatars0.githubusercontent.com/u/29531201?v=4",
   "release_year": "2018"
-},
-{
-  "song_id": "0987654321",
-  "title": "星降る夜に",
-  "title_sort": "ほしふるよるに",
-  "album": "からっぽペペロンチーノ",
-  "album_sort": "からっぽぺぺろんちーの",
-  "artist": "からっぽペペロンチーノ",
-  "artist_sort": "からっぽぺぺろんちーの",
-  "composer": "からっぽペペロンチーノ",
-  "composer_sort": "からっぽぺぺろんちーの",
-  "genre": "ロック",
-  "primary_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/002.png",
-  "secondary_artwork": "https://avatars0.githubusercontent.com/u/29531201?v=4",
-  "release_year": "2018"
-},
-{
-  "song_id": "12345678901234567890",
-  "title": "彼葉",
-  "title_sort": "かれは",
-  "album": "からっぽペペロンチーノ",
-  "album_sort": "からっぽぺぺろんちーの",
-  "artist": "からっぽペペロンチーノ",
-  "artist_sort": "からっぽぺぺろんちーの",
-  "composer": "からっぽペペロンチーノ",
-  "composer_sort": "からっぽぺぺろんちーの",
-  "genre": "ロック",
-  "primary_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/002.png",
-  "secondary_artwork": "https://avatars0.githubusercontent.com/u/29531201?v=4",
-  "release_year": "2018"
 }
-
