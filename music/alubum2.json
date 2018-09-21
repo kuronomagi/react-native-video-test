@@ -13,12 +13,12 @@
     "composer": "秋田ひろむ",
     "composer_sort": "アキタヒロム",
     "genre": "ロック",
-    "primary_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/001.png",
-    "secondary_artwork": "https://avatars0.githubusercontent.com/u/29531201?v=4",
+    "song_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/001.png",
+    "artist_image": "https://avatars0.githubusercontent.com/u/29531201?v=4",
     "release_year": "2015"
   },
   {
-    "song": "https://github.com/kuronomagi/react-native-video-test/raw/master/music/artist_1/001/001.mp3",
+    "song": "https://github.com/kuronomagi/react-native-video-test/raw/master/music/artist_1/001/002.mp3",
     "song_id": "5678vbhnjmk6fyg7u",
     "title": "或る輝き",
     "title_sort": "アルカガヤキ",
@@ -31,8 +31,8 @@
     "composer": "秋田ひろむ",
     "composer_sort": "アキタヒロム",
     "genre": "ロック",
-    "primary_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/001.png",
-    "secondary_artwork": "https://avatars0.githubusercontent.com/u/29531201?v=4",
+    "song_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/001.png",
+    "artist_image": "https://avatars0.githubusercontent.com/u/29531201?v=4",
     "release_year": "2015"
   },
   {
@@ -49,8 +49,8 @@
     "composer": "秋田ひろむ",
     "composer_sort": "アキタヒロム",
     "genre": "ロック",
-    "primary_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/001.png",
-    "secondary_artwork": "https://avatars0.githubusercontent.com/u/29531201?v=4",
+    "song_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/001.png",
+    "artist_image": "https://avatars0.githubusercontent.com/u/29531201?v=4",
     "release_year": "2015"
   },
   {
@@ -67,8 +67,8 @@
     "composer": "秋田ひろむ",
     "composer_sort": "アキタヒロム",
     "genre": "ロック",
-    "primary_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/001.png",
-    "secondary_artwork": "https://avatars0.githubusercontent.com/u/29531201?v=4",
+    "song_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/001.png",
+    "artist_image": "https://avatars0.githubusercontent.com/u/29531201?v=4",
     "release_year": "2015"
   }
 ]

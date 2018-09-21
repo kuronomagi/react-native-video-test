@@ -13,12 +13,12 @@
     "composer": "ONE OK ROCK",
     "composer_sort": "ワンオクロック OK ROCK",
     "genre": "ロック",
-    "primary_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/001.png",
-    "secondary_artwork": "https://avatars0.githubusercontent.com/u/29531201?v=4",
+    "song_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/001.png",
+    "artist_image": "https://avatars0.githubusercontent.com/u/29531201?v=4",
     "release_year": "2018"
   },
   {
-    "song": "https://github.com/kuronomagi/react-native-video-test/raw/master/music/artist_1/001/001.mp3",
+    "song": "https://github.com/kuronomagi/react-native-video-test/raw/master/music/artist_1/001/002.mp3",
     "song_id": "679332erthjkm",
     "title": "星降る夜に",
     "title_sort": "ほしふるよるに",
@@ -31,8 +31,8 @@
     "composer": "Ryota",
     "composer_sort": "リョウタ",
     "genre": "ロック",
-    "primary_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/002.png",
-    "secondary_artwork": "https://avatars0.githubusercontent.com/u/29531201?v=4",
+    "song_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/002.png",
+    "artist_image": "https://avatars0.githubusercontent.com/u/29531201?v=4",
     "release_year": "2018"
   },
   {
@@ -49,8 +49,8 @@
     "composer": "Ryota",
     "composer_sort": "リョウタ",
     "genre": "ロック",
-    "primary_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/002.png",
-    "secondary_artwork": "https://avatars0.githubusercontent.com/u/29531201?v=4",
+    "song_artwork": "https://github.com/kuronomagi/react-native-video-test/raw/master/alubumartwork/artist_1/001/002.png",
+    "artist_image": "https://avatars0.githubusercontent.com/u/29531201?v=4",
     "release_year": "2018"
   }
 ]
